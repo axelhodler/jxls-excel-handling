@@ -22,4 +22,3 @@ classes/
 
 # externalized configuration file for keys
 exchangeConfiguration.json
-*.xls
